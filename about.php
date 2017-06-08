@@ -7,7 +7,7 @@
                <div id="contacts">
                   <h2 class="post_ttl2">О НАС</h2>
          
-		    <?php echo file_get_contents('./files/about.txt'); ?>
+		    <?php echo file_get_contents('/files/about.txt'); ?>
 		   
 				</div>
                </div>
